@@ -202,10 +202,6 @@ body{
     color: var(--primary);
 }
 
-.rules .rules-button-list .container a:hover .container .image{
-    border: 1px solid var(--primary);
-}
-
 .rules .rules-button-list .container a:hover i{
     opacity: 1;
     margin-left: 10px;
